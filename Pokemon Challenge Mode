@@ -1,3 +1,11 @@
+Make sure to have the cursor go to Load File on the main menu whenever you want to start a new attempt. Also remember to have the code enabled before starting the emulation,
+and to close the game before disabling the code.
+
+This code makes it so you have a single capture card in your inventory that won't be deleted when it captures something. You have nothing else. Your job is to capture things
+that can allow you to beat the God of Harmony and/or Emperor with the things you capture. All levels start unlocked, all chests (other than the Lucky Lion chest) are disabled,
+card rewards are disabled, buying capture cards is disabled, and you only start with 1 gold. Good luck!
+
+
 04067438 60000000
 0406CBDC 3C600000
 0225DBC6 00007FFF
