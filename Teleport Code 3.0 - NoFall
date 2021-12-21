@@ -1,3 +1,10 @@
+D-Pad Down: Set Tara's current location as the destination
+D-Pad Up: Execute the teleport to the current set location
+D-Pad Right: Decrease Tara's Y-velocity (Tara falls down slower or up faster)
+D-Pad Left: Increase Tara's Y-Velocity (Tara falls down faster or up slower)
+Z, L, or R: Set Tara's Y-Velocity to 0 (NoFall)
+
+copy/paste everything below this line:
 040093CC 49750000
 040007A0 41C80000
 040007A4 42C80000
